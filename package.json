@@ -1,0 +1,23 @@
+{
+  "name": "ftl-loader",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "es6-templates": "^0.2.3",
+    "fastparse": "^1.1.1",
+    "loader-utils": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.1.1",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-html": "^3.0.0",
+    "eslint-plugin-import": "^2.6.1",
+    "mocha": "^3.4.2",
+    "should": "^11.2.1"
+  },
+  "engines": {
+    "node": ">=6.10.2 <7.0.0"
+  }
+}
